@@ -3,5 +3,5 @@ body{
     z-index: 6;
     color: white;
     text-align: center;
-    font-size: 3vh;
+    font-size: calc(9px + 2vmin);
 }
