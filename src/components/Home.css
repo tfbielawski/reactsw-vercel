@@ -1,0 +1,7 @@
+body{
+    background: url("stars.jpg");
+    z-index: 6;
+    color: white;
+    text-align: center;
+    font-size: 5vh;
+}
